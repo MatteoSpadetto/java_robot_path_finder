@@ -1,5 +1,5 @@
 # java_robot_path_finder
-TUHH java lejos project with path finder and path follower.
+TUHH java lejos project with path finder and path follower to go to the target colored wall.
 
 The project was made by team of two people: Omer Ozsan and I.
 
