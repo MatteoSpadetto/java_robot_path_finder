@@ -1,4 +1,4 @@
-# java_lejos_robot
+# java_robot_path_finder
 TUHH java lejos project with path finder and path follower.
 
 The project was made by team of two people: Omer Ozsan and I.
